@@ -1,5 +1,12 @@
+<img src="https://git-img.marcguillard.fr/panda%20roux%20profil.jpg" alt="Panda roux profile" height="120px">
 Bonjour,
+<br>
 Je suis GUILLARD Marc
+<hr>
+
+Développeur passionné. J'aime appprendre et partager de nouvelle connaissance.
+
+Si certain de mes projet vous intrige n'hésiter pas a me contacter.
 
 
 <!--
